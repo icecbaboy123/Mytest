@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("我的第一个项目上传github");
-
+            Console.WriteLine("我的第一个项目上传github2");
             Console.ReadKey();
         }
     }
